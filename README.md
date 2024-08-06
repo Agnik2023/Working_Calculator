@@ -20,4 +20,4 @@ Welcome to the **Advanced Calculator** project! 🎉 This is a comprehensive and
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/advanced-calculator.git
+   git clone https://github.com/Agnik2023/advanced-calculator.git
